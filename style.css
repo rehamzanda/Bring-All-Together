@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(171, 167, 167);
+}
+
+.simulation{
+    border: 3px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.item-table{
+    border: 3px solid black;
+}
+
+#cursorTarget {
+    cursor: pointer;
+  }
+
